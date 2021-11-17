@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://relaxed-aryabhata-987167.netlify.com/* https://pecha-kucha.kelsin.net/:splat 301!
